@@ -7,7 +7,7 @@
   
     <groupId>org.sonatype.mavenbook.simple</groupId>
     <artifactId>test</artifactId>
-    <version>0.9</version>
+    <version>0.9.1</version>
   
   
   <packaging>jar</packaging>
